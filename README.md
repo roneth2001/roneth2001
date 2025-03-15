@@ -1,3 +1,4 @@
+<p align="center"></p>
 <h1 align="center">Hi 👋, I'm Hemsara Rupasingha</h1>
 <h3 align="center">An Undergraduate ICT Student at the University of Jaffna</h3>
 
