@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hemsara Rupasingha</h1>
-<h3 align="center">A Undergraduate ICT Student of University of Jaffna</h3>
+<h3 align="center">An Undergraduate ICT Student at the University of Jaffna</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=roneth2001&label=Profile%20views&color=0e75b6&style=flat" alt="roneth2001" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=roneth2001&label=Profile%20views&color=0e75b6&style=flat" alt="roneth2001" /> </p>
 
 - 🌱 I’m currently learning **React, Machine Learning**
 
 - 💬 Ask me about **Java**
 
 - 📫 How to reach me **rarhemsara@gmail.com**
-
+<h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roneth-hemsara-965b10253/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roneth-hemsara-965b10253/" height="30" width="40" /></a>
