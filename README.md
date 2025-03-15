@@ -1,4 +1,4 @@
-<p align="center"></p>
+<p align="center"> <img src="https://github.com/roneth2001/roneth2001/blob/main/images/banner.png?raw=true" /></p>
 <h1 align="center">Hi 👋, I'm Hemsara Rupasingha</h1>
 <h3 align="center">An Undergraduate ICT Student at the University of Jaffna</h3>
 
