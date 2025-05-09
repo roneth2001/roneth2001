@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemsara Rupasingha</h1>
-<h3 align="center">A Undergraduate ICT Student of University of Jaffna</h3>
+<h3 align="center">An Undergraduate ICT Student of University of Jaffna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roneth2001&label=Profile%20views&color=0e75b6&style=flat" alt="roneth2001" /> </p>
 
